@@ -1,0 +1,25 @@
+.search-button {
+    margin-right: 3px;
+    margin-bottom: 3px;
+    border-radius: 3px;
+    border-color: black;
+    background-color: darkslategray;
+    color: rgb(195, 255, 252);
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#main {
+    background-color: black;
+}
+
+#buttons {
+    background-color: rgb(23, 23, 66);
+}
+
+#form-area {
+    background-color: rgb(58, 113, 216);
+}
+
+#display {
+    background-color: #ffffff;
+}
